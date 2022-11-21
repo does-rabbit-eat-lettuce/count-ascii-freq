@@ -1,2 +1,2 @@
 # count-ascii-freq
-C, C++ to read file and count ASCII frequency
+Read input file and count ASCII frequency for each character
